@@ -57,3 +57,12 @@ A mobile and web app for logging your mood, managing daily tasks and getting Qur
 **Let's connect!**
 
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaltunabdullahi070@gmail.com)
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvltn8/kvltn8/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvltn8/kvltn8/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kvltn8/kvltn8/output/github-snake.svg">
+</picture>
