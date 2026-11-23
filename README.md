@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-I'm Kaltun Abdullahi**, a software engineer based in Nairobi, Kenya.
+I'm Kaltun Abdullahi, a software engineer based in Nairobi, Kenya.
 
-I'm a **Moringa School** software engineering graduate. Before tech, I studied commerce, so I think about the people and the business behind every product I build. I enjoy turning ideas into working web applications, from the database all the way to the interface.
+I'm a **Moringa School** software engineering graduate. Before tech, I studied Bachelor of commerce and specialized in finance , so I think about the people and the business behind every product I build. I enjoy turning ideas into working web applications, from the database all the way to the interface.
 
 I build full-stack apps with **Django** and **React**, styled with **Tailwind CSS**, backed by **PostgreSQL** and **Supabase**, and packaged with **Docker** for deployment. I'm also teaching myself **cybersecurity**, so the websites I build are secure from the start.
 
@@ -41,7 +41,7 @@ An online abaya store with a product catalogue, cart, checkout and an AI shoppin
 - **DevOps:** Dockerized, with a GitHub Actions pipeline that builds the image, runs the pytest suite and health-checks the container; Locust for load testing
 - **Security:** secrets kept in environment variables, JWT authentication, CORS and allowed-hosts configuration
 
-🔗 [Live demo](https://) · [Source code](https://github.com/kvltn8/djangonaut)
+🔗 [Live demo](https://)
 
 #### 🌙 [Moodling](https://github.com/kvltn8/MoodlingZkv): mood and task tracker
 A mobile and web app for logging your mood, managing daily tasks and getting Quran surah recommendations to match how you feel.
@@ -52,12 +52,12 @@ A mobile and web app for logging your mood, managing daily tasks and getting Qur
 - **Database:** PostgreSQL
 - **DevOps:** Dockerized backend with a GitHub Actions CI pipeline
 
-🔗 [Live demo](https://) · [Source code](https://github.com/kvltn8/MoodlingZkv)
+🔗 [Live demo](https://) 
 
 ---
 
 **Let's connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](kaltunabdullahi070@gmail.com)
+
